@@ -4,6 +4,10 @@ body {
   width:100vw;
 }
 
+img{
+  content:url(half-ellipses-hi.png);
+}
+
 #hex1 {
   height: 180px;
   width: 308px;
