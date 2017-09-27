@@ -7,34 +7,29 @@ body {
 img{
   content:url(half-ellipses-hi.png);
 }
+
 /*Formatting*/
 .top {
-  background-color: #4286f4;
   height:calc(100vh/3);
   width:100vw;
 }
 
 .mid {
-  background-color: #38ef32;
   height:calc(100vh/3);
   width:100vw;
   display:flex;
 }
 
 .bottom {
-  background-color: #e6ef32;
   height:calc(100vh/3);
   width:100vw
 }
 
 .subdiv{
-  background-color: #38ef32;
   height:calc(100vh/3);
   width:calc(100vw/3);
-  border-style: solid;
-  border-width: 1px;
-  
 }
+
 /*Shapes*/
 #hex1 {
   height: 180px;
