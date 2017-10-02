@@ -26,11 +26,6 @@ body {
   width:calc(100vw/3);
 }
 
-.resize{
-    width:35%; 
-    height: auto;
-}
-
 .img_left{
   content:url(half-ellipses-hi.png);
   float:right;
