@@ -4,10 +4,6 @@ body {
   width:100vw;
 }
 
-img{
-  content:url(half-ellipses-hi.png);
-}
-
 /*Formatting*/
 .top {
   height:calc(100vh/3);
@@ -30,10 +26,25 @@ img{
   width:calc(100vw/3);
 }
 
+.resize{
+    width:35%; 
+    height: auto;
+}
+
+.img_left{
+  content:url(half-ellipses-hi.png);
+  float:right;
+}
+
+.img_right{
+  content:url(half-ellipses-hi.png);  
+  float:left;
+}
+
 /*Shapes*/
 #hex1 {
   height: 180px;
-  width: 308px;
+  width: 408px;
   z-index: 2;
 }
 
